@@ -214,4 +214,4 @@ Minetest is released as a full free version, with all features and updates inclu
 Start your adventure today! Download Minetest now and unleash your creativity!
 
 ---
-**Last updated:** 2026-10-13 21:04:13 UTC
+**Last updated:** 2026-10-14 00:58:56 UTC
